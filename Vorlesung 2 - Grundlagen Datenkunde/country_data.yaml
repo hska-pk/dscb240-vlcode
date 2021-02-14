@@ -1,0 +1,29 @@
+data:
+  country:
+  - gdppc: 141100
+    name: Liechtenstein
+    neighbor:
+    - direction: E
+      name: Austria
+    - direction: W
+      name: Switzerland
+    rank: 1
+    year: 2008
+  - gdppc: 59900
+    lat: 1.29027
+    long: 103.851959
+    name: Singapore
+    neighbor:
+      direction: N
+      name: Malaysia
+    rank: 4
+    year: 2011
+  - gdppc: 13600
+    name: Panama
+    neighbor:
+    - direction: W
+      name: Costa Rica
+    - direction: E
+      name: Colombia
+    rank: 68
+    year: 2011

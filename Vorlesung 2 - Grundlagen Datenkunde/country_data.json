@@ -1,0 +1,50 @@
+{
+  "data": {
+    "country": [
+      {
+        "name": "Liechtenstein",
+        "rank": 1,
+        "year": 2008,
+        "gdppc": 141100,
+        "neighbor": [
+          {
+            "name": "Austria",
+            "direction": "E"
+          },
+          {
+            "name": "Switzerland",
+            "direction": "W"
+          }
+        ]
+      },
+      {
+        "name": "Singapore",
+        "lat": 1.290270,
+        "long": 103.851959,
+        "rank": 4,
+        "year": 2011,
+        "gdppc": 59900,
+        "neighbor": {
+          "name": "Malaysia",
+          "direction": "N"
+        }
+      },
+      {
+        "name": "Panama",
+        "rank": 68,
+        "year": 2011,
+        "gdppc": 13600,
+        "neighbor": [
+          {
+            "name": "Costa Rica",
+            "direction": "W"
+          },
+          {
+            "name": "Colombia",
+            "direction": "E"
+          }
+        ]
+      }
+    ]
+  }
+}
