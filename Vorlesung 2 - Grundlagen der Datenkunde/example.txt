@@ -1,7 +1,0 @@
-mein beispiel funktioniert nicht!
-
-lokal zeile 3 geändert
-
-
-remote zeile 6 geändert
-hallo 
