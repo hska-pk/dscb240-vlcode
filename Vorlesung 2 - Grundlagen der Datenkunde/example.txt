@@ -1,8 +1,0 @@
-Dies ist eine Beispieldatei
-Kein Konflikt
-
-In repl.it gearbeitet - dies ist meine Änderung (User B).
-
-
-Kein Konflikt
-Hallo
