@@ -1,7 +1,7 @@
 Dies ist eine Beispieldatei
 Kein Konflikt
 
-Dies ist die Änderung in Zeile 4 in VSCode (User A)
+In repl.it gearbeitet - dies ist meine Änderung (User B).
 
 
 Kein Konflikt
