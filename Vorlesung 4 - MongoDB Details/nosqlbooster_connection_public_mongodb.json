@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Public: MongoDB Course Databases",
+    "uri": {
+      "hosts": [
+        {
+          "host": "cluster0-shard-00-00-jxeqq.mongodb.net",
+          "port": 27017
+        },
+        {
+          "host": "cluster0-shard-00-01-jxeqq.mongodb.net",
+          "port": 27017
+        },
+        {
+          "host": "cluster0-shard-00-02-jxeqq.mongodb.net",
+          "port": 27017
+        }
+      ],
+      "options": {
+        "authSource": "admin",
+        "readPreference": "primary",
+        "replicaSet": "Cluster0-shard-0",
+        "ssl": true
+      },
+      "password": "93697ad3cc1f9b732922d290da1547f8f12c03b29d37fc1a2fe86fb0bbb405a1",
+      "scheme": "mongodb",
+      "username": "m001-student"
+    },
+    "colorFlag": 0,
+    "authMode": 1,
+    "connectionType": "replica",
+    "certRelated": {}
+  }
+]
