@@ -24,12 +24,6 @@ session.commit()
 session.close()
 
 
-# print('Filme nach dem 1.1.2015:')
-# for movie in movies:
-#     print(f'- {movie.title}')
-
-#     movie.release_date = date(2016, 1, 5)
-
 
         
 
